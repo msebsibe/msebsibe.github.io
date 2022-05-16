@@ -1,3 +1,8 @@
+layout: page
+title: "wine"
+permalink: /info/
+
+
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />

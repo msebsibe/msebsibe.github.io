@@ -1,6 +1,3 @@
-layout: page
-title: "final"
-permalink: /explore/
 
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 
